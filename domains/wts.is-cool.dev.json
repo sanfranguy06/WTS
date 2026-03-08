@@ -1,15 +1,15 @@
 {
     "description": "WonTonSoup's Website",
     "domain": "is-cool.dev",
-    "subdomain": "wts",
+    "subdomain": "*.wts",
 
     "owner": {
-        "repo": "https://github.com/sanfranguy06/register-open-domains",
+        "repo": "https://github.com/sanfranguy06/wts",
         "email": "sanfranguy06@gmail.com"
     },
 
     "record": {
-        "CNAME": "wts.is-cool.dev"
+        "CNAME": "wts.sanfranguy06.workers.dev"
     },
 
     "proxied": false
